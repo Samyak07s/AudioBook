@@ -1,0 +1,58 @@
+[
+    {
+      "rating": "4.5",
+      "title":"THE WATER CURE",
+      "text":"Martin Hyatt",
+      "img": "assets/image/pic-1.jpg",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"PEACE LIFE",
+      "text":"Hazard Bin",
+      "img": "assets/image/pic-2.jpeg",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Day Remember",
+      "text":"Nicholos",
+      "img": "assets/image/pic-3.jpeg",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"France",
+      "text":"Paris",
+      "img": "assets/image/pic-4.png",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Germany",
+      "text":"Berlin",
+      "img": "assets/image/pic-5.jpeg",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Italy",
+      "text":"Rome",
+      "img": "assets/image/pic-6.jpeg",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Switzerland",
+      "text":"Bern",
+      "img": "assets/image/pic-8.png",
+      "audio":"audio/Em_Sam.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title":"Singapore",
+      "text":"Singapore",
+      "img": "assets/pic-7.jpeg",
+      "audio":"audio/Em_Sam.mp3"
+    }
+  ]
